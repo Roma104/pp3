@@ -1,11 +1,11 @@
 #BlueJ class context
-comment0.target=Smartphone
+comment0.target=Book
 comment1.params=
-comment1.target=void\ presentModel()
+comment1.target=void\ showBasics()
 comment2.params=
-comment2.target=void\ showNumberOfAplication()
+comment2.target=void\ showMore()
 comment3.params=
-comment3.target=void\ isItWorking()
+comment3.target=void\ showDetails()
 comment4.params=args
 comment4.target=void\ main(java.lang.String[])
 numComments=5
