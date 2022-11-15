@@ -1,7 +1,7 @@
 public class DrivingLicence{
     //Atrubyty:
-    private String lastName;
-    private String names;
+    public String lastName;
+    public String names;
     private String place;
     private String startDate;
     private String endDate;
